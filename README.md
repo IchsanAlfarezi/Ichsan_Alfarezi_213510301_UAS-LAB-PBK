@@ -1,6 +1,7 @@
 # UAS LAB PBK
-NAMA :
-NPM : 
+NAMA : Ichsan Alfarezi
+
+NPM : 213510301
 
 ## Project setup
 ```
